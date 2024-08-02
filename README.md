@@ -37,7 +37,7 @@ My Pokemon App adalah aplikasi mobile yang dikembangkan menggunakan React Native
    npm install
 4. Jalankan server:
    ```bash
-   npm start
+   npx ts-node src/index.ts
 
 ### Mobile 
 1. Masuk ke direktori `mobile`:
