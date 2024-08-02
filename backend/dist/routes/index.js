@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.router = void 0;
+const express_1 = require("express");
+const pokemonController_1 = require("../controllers/pokemonController");
+const router = (0, express_1.Router)();
+exports.router = router;
+router.post('/catch', pokemonController_1.catchPokemon);
+router.post('/release', pokemonController_1.releasePokemon);
+router.post('/rename', pokemonController_1.renamePokemon);
