@@ -32,3 +32,29 @@ My Pokemon App adalah aplikasi mobile yang dikembangkan menggunakan React Native
    ```bash
    cd backend
 
+2. Instal dependensi:
+   ```bash
+   npm install
+4. Jalankan server:
+   ```bash
+   npm start
+
+### Mobile 
+1. Masuk ke direktori `mobile`:
+   ```bash
+   cd mobile
+
+2. Instal dependensi:
+   ```bash
+   npm install
+4. Jalankan server:
+   ```bash
+   npm run android # Untuk Android
+   npm run ios     # Untuk iOS
+
+## Cara Penggunaan 
+   - Jalankan backend server dan aplikasi mobile secara bersamaan.
+   - Copy url backend ke setting yang ada di mobile
+   - Akses aplikasi mobile dan gunakan fitur-fitur seperti menangkap, mengganti nama, dan melepaskan Pokemon.
+
+
