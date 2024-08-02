@@ -31,4 +31,4 @@ My Pokemon App adalah aplikasi mobile yang dikembangkan menggunakan React Native
 1. Masuk ke direktori `backend`:
    ```bash
    cd backend
-```
+
