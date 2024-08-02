@@ -21,7 +21,6 @@ My Pokemon App adalah aplikasi mobile yang dikembangkan menggunakan React Native
 
 - Node.js (versi 20.14.0 atau yang lebih baru)
 - NPM atau Yarn
-- React Native CLI (untuk pengembangan aplikasi mobile)
 - TypeScript
 
 ## Instalasi
